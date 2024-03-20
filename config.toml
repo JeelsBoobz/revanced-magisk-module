@@ -53,7 +53,7 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-archive-dlurl = "https://youtube-music.en.uptodown.com/android"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Extended]
 enabled = true
@@ -63,4 +63,4 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-archive-dlurl = "https://youtube.en.uptodown.com/android"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
