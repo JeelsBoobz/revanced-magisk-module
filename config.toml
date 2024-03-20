@@ -24,6 +24,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 [Twitch]
 enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+
 [TikTok]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
@@ -53,6 +54,7 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+version = "auto"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Extended]
@@ -63,4 +65,5 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+version = "auto"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
