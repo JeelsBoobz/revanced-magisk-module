@@ -55,7 +55,7 @@ cli-source = "inotia00/revanced-cli"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 build-mode = "both"
 version = "auto"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
 [YouTube-Extended]
 enabled = true
@@ -66,4 +66,4 @@ cli-source = "inotia00/revanced-cli"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 build-mode = "both"
 version = "auto"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
