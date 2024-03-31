@@ -52,8 +52,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 [Music-Extended]
 enabled = true
 app-name = "Music"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 build-mode = "both"
