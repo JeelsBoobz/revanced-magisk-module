@@ -58,7 +58,7 @@ cli-source = "ReVanced/revanced-cli"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 build-mode = "both"
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+apkmonk-dlurl = "https://www.apkmonk.com/app/com.google.android.apps.youtube.music/"
 
 [YouTube-Extended]
 enabled = true
