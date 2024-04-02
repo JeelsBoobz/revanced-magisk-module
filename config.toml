@@ -58,8 +58,8 @@ cli-source = "ReVanced/revanced-cli"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 build-mode = "both"
 version = "auto"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
-apkmonk-dlurl = "https://www.apkmonk.com/app/com.google.android.apps.youtube.music/"
 
 [YouTube-Extended]
 enabled = true
