@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (46)",
-  "versionCode": 46,
-  "zipUrl": "https://github.com/JeelsBoobz/revanced-magisk-module/releases/download/46/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.46.0)",
+  "versionCode": 91,
+  "zipUrl": "https://github.com/JeelsBoobz/revanced-magisk-module/releases/download/91/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/JeelsBoobz/revanced-magisk-module/update/build.md"
 }
