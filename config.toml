@@ -37,21 +37,19 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
 # https://github.com/j-hc/revanced-magisk-module/issues/554
 [Music-Extended]
-enabled = false
-app-name = "Music"
+app-name = "Music Extended"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
+excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-enabled = false
-app-name = "YouTube"
+app-name = "YouTube Extended"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
