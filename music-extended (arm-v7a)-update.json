@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 5.13.1)",
-  "versionCode": 91,
-  "zipUrl": "https://github.com/JeelsBoobz/revanced-magisk-module/releases/download/91/music-extended-revanced-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches 5.14.1)",
+  "versionCode": 93,
+  "zipUrl": "https://github.com/JeelsBoobz/revanced-magisk-module/releases/download/93/music-extended-revanced-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/JeelsBoobz/revanced-magisk-module/update/build.md"
 }
